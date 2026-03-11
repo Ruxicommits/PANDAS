@@ -1,4 +1,4 @@
-Learned how to:
+Learn how to:
 1. importing the libraries and loading data to data frame
 2. Fixing the data frame delimiter issue
 3. Using basic pandas functions (describe etc.)
